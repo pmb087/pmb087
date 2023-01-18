@@ -10,6 +10,6 @@
 <a href="https://ko.reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"></a> <a href="https://styled-components.com" target="_blank"><img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white"></a> <a href="https://sass-guidelin.es/ko" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"></a> <a href="https://developer.mozilla.org/ko/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"></a> <a href="https://developer.mozilla.org/ko/docs/Web/CSS/Reference" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"></a> <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"></a> 
 
 
-![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=pmb087&show_icons=true&theme=gotham) 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=pmb087&show_icons=true&theme=gotham) 
 <br/>
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=pmb087&langs_count=10&layout=compact&theme=gotham)](https://github.com/pmb087/pmb087)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=pmb087&langs_count=10&layout=compact&theme=gotham)](https://github.com/pmb087/pmb087) -->
